@@ -1,0 +1,17 @@
+body{
+background-color: blanchedalmond;
+width: 800px;
+
+}
+h1{
+    background-color: blueviolet;
+    color: greenyellow;
+    position: fixed;
+    top: 0px;
+    left: 0%;
+}
+p{
+    background-color: black;
+    color: blanchedalmond;
+    width: 100%;
+}
